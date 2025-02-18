@@ -1,6 +1,6 @@
 # ProgMaster-Intern
 
-**## 1. What is Data Science?**
+## 1. What is Data Science?
 
    Data Science is an interdisciplinary field that combines statistical analysis, machine learning, programming, and domain expertise to extract meaningful insights from structured and unstructured data. It involves collecting, cleaning, analyzing, and visualizing data to support decision-making, automation, and predictive modeling.
        
